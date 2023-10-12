@@ -1,0 +1,11 @@
+{
+  "name": "licence365",
+  "version": "1.0.0",
+  "description": "dashboard office 365",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Ferraz",
+  "license": "ISC"
+}
